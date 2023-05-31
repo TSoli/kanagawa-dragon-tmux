@@ -1,7 +1,7 @@
 # Kanagawa for tmux
   This is a fork of [dreamsofcode-io/catppuccin-tmux](https://github.com/dreamsofcode-io/catppuccin-tmux), but using the [kanagawa](https://github.com/rebelot/kanagawa.nvim) colorscheme.
 
-Screenshot :
+## Screenshot :
 ![](./kanagawa-tmux.png)
 
 ## Usage
