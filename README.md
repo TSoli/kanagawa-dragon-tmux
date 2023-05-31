@@ -24,8 +24,7 @@ set -g @plugin 'tmux-plugins/tpm'
 
 #### Configuration options
 
-All flavours support certain levels of customization that match our [Catppuccin
-Style Guide][style-guide]. To add these customizations, add any of the following
+This theme support certain levels of customization. To add these customizations, add any of the following
 options to your Tmux configuration.
 
 In order to have the correct icons displayed please use your favorite nerd fonts patched font.
