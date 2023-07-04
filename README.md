@@ -10,7 +10,7 @@ colorscheme.
 
 ## Screenshot :
 
-![](./kanagawa-tmux.png)
+![](./kanagawa-dragon-tmux.png)
 
 ## Usage
 
